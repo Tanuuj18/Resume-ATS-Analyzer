@@ -53,7 +53,7 @@ Create a .env file (already present if cloned) and add:
 
 Copy
 Edit
-GOOGLE_API_KEY=AIzaSyDFMmIjWcirzRzJHvC1-2KeMQGnhpE0R_o
+GOOGLE_API_KEY
 
 ⚠️ Never share your API key in public repositories.
 
