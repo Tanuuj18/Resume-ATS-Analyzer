@@ -32,7 +32,7 @@ Clone the repository
 bash
 Copy
 Edit
-git clone https://github.com/Tanuuj18/ats-resume-analyzer.git
+git clone https://github.com/Tanuuj18/Resume-ATS-Analyzer.git
 cd ats-resume-analyzer
 Create and activate a virtual environment (optional but recommended)
 
