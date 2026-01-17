@@ -81,5 +81,4 @@ Upload job description via PDF
 
 Resume formatting tips
 
-🧑‍💻 Author
-Tanuuj vardhan reddy – Full Stack + GenAI Enthusiast
+
