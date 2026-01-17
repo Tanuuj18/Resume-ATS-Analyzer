@@ -28,9 +28,9 @@ PDF Processing: pdf2image
 Environment Management: python-dotenv
 
 📁 Project Structure
-├── app.py               # Main Streamlit application
-├── requirements.txt     # Python dependencies
-├── .env                 # Stores Google API key
+app.py               # Main Streamlit application
+requirements.txt     # Python dependencies
+.env                 # Stores Google API key
 
 📌 Use Cases
 
@@ -39,4 +39,5 @@ Resume optimization for ATS systems
 Placement preparation for students
 
 Quick resume screening for recruiters
+
 
